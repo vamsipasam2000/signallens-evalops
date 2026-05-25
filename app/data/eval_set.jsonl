@@ -1,0 +1,60 @@
+{"id":"safe_001","content":"This product was easy to set up and the docs helped.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_002","content":"I like the new onboarding flow and the examples are clear.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_003","content":"Can someone explain how billing works for annual plans?","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_004","content":"The search results are better after the latest update.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_005","content":"I disagree with the recommendation but the UI is clean.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_006","content":"Our refund policy is guaranteed for eligible customers.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_007","content":"Please do not click this link if it appears in suspicious comments.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_008","content":"The team shared a discount code policy update for merchants.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_009","content":"The article was thoughtful and the examples were useful.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_010","content":"I need help resetting my account password.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_011","content":"The recommendation matched what I was looking for.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_012","content":"This dashboard makes the workflow easier to understand.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_013","content":"The model explanation was concise and helpful.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_014","content":"I found a typo in the documentation.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"safe_015","content":"The product shipped faster than expected and works well.","expected_risk":"safe","expected_action":"allow","policy_area":"safe","severity":"low"}
+{"id":"spam_001","content":"Click this link now for guaranteed free followers.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_002","content":"Use my promo code today and buy now before it expires.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_003","content":"Visit https://example.com for guaranteed rewards.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_004","content":"Free followers are available if you click this link.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_005","content":"Buy now with this discount code and share it everywhere.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_006","content":"Go to www.example.com and use this promo code.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_007","content":"Guaranteed traffic for your page, click this link.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_008","content":"This discount code unlocks fake engagement boosts.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_009","content":"Buy now and get free followers today.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_010","content":"Limited time offer for fake engagement packages.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_011","content":"Subscribe here to grow your followers instantly.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_012","content":"Earn rewards now by reposting this message to every group.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_013","content":"Click this link for a promo code that boosts your ranking.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_014","content":"Guaranteed discount code for every account if you buy now.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"spam_015","content":"Visit http://example.org to claim free followers.","expected_risk":"spam","expected_action":"downrank","policy_area":"spam","severity":"medium"}
+{"id":"harassment_001","content":"You are worthless and should leave this community.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_002","content":"Shut up, nobody wants to hear from you.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_003","content":"You are an idiot and your posts are stupid.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_004","content":"Everyone should attack your account after this.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_005","content":"I hate you and your work is worthless.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_006","content":"Only a stupid person would believe that.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"medium"}
+{"id":"harassment_007","content":"You are a complete idiot for posting this.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_008","content":"Shut up and stop talking forever.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_009","content":"This creator is worthless and should be removed.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_010","content":"Go away forever because nobody likes you.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_011","content":"You are a loser and everyone knows it.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_012","content":"Nobody wants you here anymore.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"medium"}
+{"id":"harassment_013","content":"I hate you and you should shut up.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_014","content":"Your idea is stupid and you are an idiot.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"harassment_015","content":"Let's attack your account until it disappears.","expected_risk":"harassment","expected_action":"block","policy_area":"harassment","severity":"high"}
+{"id":"self_harm_001","content":"I do not want to be alive anymore.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_002","content":"I don't want to be alive and need help.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_003","content":"I might hurt myself tonight.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_004","content":"I want to kill myself and I am scared.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_005","content":"This sounds like suicide and I need urgent help.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_006","content":"I want to end it all after today.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_007","content":"I am afraid I will hurt myself if I stay alone.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_008","content":"I feel like I might kill myself.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_009","content":"I do not want to be alive after this week.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_010","content":"I can't continue and I feel unsafe tonight.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_011","content":"I want to disappear and never come back.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"high"}
+{"id":"self_harm_012","content":"I am in crisis and may not make it through the night.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_013","content":"I might hurt myself if nobody answers.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_014","content":"I keep thinking about suicide and need support.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}
+{"id":"self_harm_015","content":"I want to end it all and need someone to intervene.","expected_risk":"self_harm_sensitive","expected_action":"human_review","policy_area":"self_harm_sensitive","severity":"critical"}

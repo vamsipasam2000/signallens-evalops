@@ -1,0 +1,21 @@
+{
+  "cluster": "signallens-evalops",
+  "serviceName": "signallens-evalops-api",
+  "taskDefinition": "${TASK_DEFINITION_ARN}",
+  "desiredCount": 1,
+  "launchType": "FARGATE",
+  "platformVersion": "LATEST",
+  "deploymentConfiguration": {
+    "maximumPercent": 200,
+    "minimumHealthyPercent": 100
+  },
+  "networkConfiguration": {
+    "awsvpcConfiguration": {
+      "subnets": ["subnet-REPLACE_ME"],
+      "securityGroups": ["sg-REPLACE_ME"],
+      "assignPublicIp": "ENABLED"
+    }
+  },
+  "enableECSManagedTags": true,
+  "propagateTags": "SERVICE"
+}
