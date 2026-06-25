@@ -1,0 +1,5 @@
+{"query_id":"rank_metrics","query":"How should I measure ranking quality for retrieval?","relevant_document_ids":["doc-ranking-metrics"],"metadata_filter":{"domain":"evaluation"}}
+{"query_id":"chroma_storage","query":"Which backend uses persistent collections for local vector search?","relevant_document_ids":["doc-chromadb"],"metadata_filter":{"backend":"chroma"}}
+{"query_id":"pgvector_sql","query":"How do I index embeddings inside PostgreSQL?","relevant_document_ids":["doc-pgvector"],"metadata_filter":{"backend":"pgvector"}}
+{"query_id":"mlflow_compare","query":"How can I compare chunk sizes and embedding models across runs?","relevant_document_ids":["doc-mlflow"],"metadata_filter":{"topic":"mlflow"}}
+{"query_id":"chunking_tradeoff","query":"What does chunk size change in a RAG ingestion pipeline?","relevant_document_ids":["doc-ingestion"],"metadata_filter":{"topic":"chunking"}}

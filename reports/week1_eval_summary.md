@@ -34,13 +34,13 @@
 
 | Component | Count | Avg ms | P50 ms | P95 ms | Max ms |
 |---|---:|---:|---:|---:|---:|
-| classify_risk | 60 | 0.0036 | 0.0030 | 0.0040 | 0.0170 |
-| evaluate_output | 60 | 0.0033 | 0.0020 | 0.0020 | 0.0790 |
-| generate_explanation | 60 | 0.0017 | 0.0020 | 0.0020 | 0.0020 |
-| normalize_content | 60 | 0.0021 | 0.0020 | 0.0020 | 0.0030 |
-| recommend_action | 60 | 0.0010 | 0.0010 | 0.0010 | 0.0020 |
-| retrieve_policy_context | 60 | 0.0230 | 0.0210 | 0.0311 | 0.0350 |
-| total | 60 | 0.7183 | 0.7040 | 0.7913 | 0.8500 |
+| classify_risk | 60 | 0.0034 | 0.0030 | 0.0040 | 0.0070 |
+| evaluate_output | 60 | 0.0035 | 0.0020 | 0.0020 | 0.0860 |
+| generate_explanation | 60 | 0.0017 | 0.0020 | 0.0020 | 0.0030 |
+| normalize_content | 60 | 0.0023 | 0.0020 | 0.0020 | 0.0180 |
+| recommend_action | 60 | 0.0011 | 0.0010 | 0.0020 | 0.0020 |
+| retrieve_policy_context | 60 | 0.0266 | 0.0220 | 0.0302 | 0.1820 |
+| total | 60 | 0.7432 | 0.7160 | 0.8741 | 1.0980 |
 
 ## Readout
 
